@@ -1,4 +1,4 @@
-import Es1.Rettangolo;
+package Es1;
 
 
 public class Main {
